@@ -3,11 +3,11 @@
     "name": "@html1024/vue-auth",
     "description": "A simple light-weight authentication library for Vue.js",
     "keywords": ["vue", "vue.js", "vuejs", "plugin", "jwt", "auth", "authentication", "authorize", "authenticate", "bearer", "basic", "axios", "http", "api", "json", "web", "token"],
-    "homepage": "https://websanova.com/docs/vue-auth",
+    "homepage": "https://html1024.com/docs/vue-auth",
     "author": {
-        "name": "Websanova",
-        "url": "http://websanova.com",
-        "username": "websanova",
+        "name": "html1024",
+        "url": "http://html1024.com",
+        "username": "html1024",
         "email": "html1024@163.com"
     },
     "main": "dist/v3/vue-auth.common.js",
