@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "name": "html1024-vue-auth",
+    "name": "html1024-vue",
     "description": "A simple light-weight authentication library for Vue.js",
     "keywords": ["vue", "vue.js", "vuejs", "plugin", "jwt", "auth", "authentication", "authorize", "authenticate", "bearer", "basic", "axios", "http", "api", "json", "web", "token"],
     "homepage": "https://html1024.com/docs/vue-auth",
