@@ -1,6 +1,6 @@
 {
     "version": "4.2.1",
-    "name": "@websanova/vue-auth",
+    "name": "@html1024/vue-auth",
     "description": "A simple light-weight authentication library for Vue.js",
     "keywords": ["vue", "vue.js", "vuejs", "plugin", "jwt", "auth", "authentication", "authorize", "authenticate", "bearer", "basic", "axios", "http", "api", "json", "web", "token"],
     "homepage": "https://websanova.com/docs/vue-auth",
@@ -18,9 +18,9 @@
     "types": "types/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "https://github.com/websanova/vue-auth"
+        "url": "https://github.com/html1024/vue-auth"
     },
-    "license": "(MIT OR GPL)",
+    "license": "Apache",
     "scripts": {
         "clear": "rm -rf dist/*",
         "build": "npm run clear; node build/build.js",
