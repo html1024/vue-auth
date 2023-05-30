@@ -8,7 +8,7 @@
         "name": "Websanova",
         "url": "http://websanova.com",
         "username": "websanova",
-        "email": "rob@websanova.com"
+        "email": "html1024@163.com"
     },
     "main": "dist/v3/vue-auth.common.js",
     "module": "dist/v3/vue-auth.esm.js",
